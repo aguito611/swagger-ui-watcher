@@ -2,7 +2,7 @@
   "name": "swagger-ui-watcher-with-transports",
   "version": "1.0.2",
   "main": "index.js",
-  "repository": "https://github.com/92Sam/swagger-ui-watcher",
+  "repository": "https://github.com/aguito611/swagger-ui-watcher",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
